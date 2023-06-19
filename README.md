@@ -17,7 +17,7 @@ I am Elham Mohammadi, a 25-year-old from Tehran. My field of study is software e
 ## My expertise
 
 
-<div align="center" style="border-radius:8px">
+<div align="center">
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  &nbsp; &nbsp;
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" /></a>   &nbsp; &nbsp;
 <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 5px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/640px-Adobe_Photoshop_CC_icon.svg.png" alt="Photoshop" height="50" /></a>   &nbsp; &nbsp;
@@ -31,6 +31,11 @@ I am Elham Mohammadi, a 25-year-old from Tehran. My field of study is software e
 
 
 ## My social networks
+
 <a href="https://instagram.com/eliii__76">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
+</a>
+
+<a href="https://github.com/alirezaazarakhsh" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
