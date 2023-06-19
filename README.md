@@ -23,7 +23,7 @@ I am Elham Mohammadi, a 25-year-old from Tehran. My field of study is software e
 <img alt="WordPress" src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white" />
 <img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-blue.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 <img alt="Figma" src="https://img.shields.io/badge/Figma-gray.svg?style=for-the-badge&logo=Figma&logoColor=white" />
-<img alt="adobephotoshop" src="https://img.shields.io/badge/adobephotoshop-dark-blue.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
+<img alt="adobephotoshop" src="https://img.shields.io/badge/adobephotoshop-darkblue.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
 <img alt="adobeillustrator" src="https://img.shields.io/badge/adobeillustrator-%23E34F26.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white" />
 
 
