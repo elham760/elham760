@@ -36,6 +36,6 @@ I am Elham Mohammadi, a 25-year-old from Tehran. My field of study is software e
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
 </a>
 
-<a href="https://github.com/alirezaazarakhsh" target="_blank">
+<a href="https://github.com/elham760" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
